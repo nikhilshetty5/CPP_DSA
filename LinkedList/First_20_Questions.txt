@@ -1,0 +1,39 @@
+1.Create and Print a Linked List
+
+2.Insert a Node at the Beginning
+
+3.Insert a Node at the End
+
+4.Insert a Node at a Given Position
+
+5.Delete a Node by Value
+
+6.Delete a Node by Position (Index-based)
+
+7.Count the Number of Nodes in the Linked List
+
+Search for an Element in the Linked List
+
+Reverse a Linked List (Iterative Method)
+
+Reverse a Linked List (Recursive Method)
+
+Find the Middle Element of the Linked List
+
+Find the Nth Node from the End
+
+Detect a Loop in the Linked List (Floyd’s Cycle Detection)
+
+Remove a Loop from the Linked List (if present)
+
+Check if the Linked List is a Palindrome
+
+Remove Duplicates from a Sorted Linked List
+
+Remove Duplicates from an Unsorted Linked List
+
+Merge Two Sorted Linked Lists into One Sorted List
+
+Find the Intersection Point of Two Linked Lists
+
+Rotate the Linked List by K Nodes

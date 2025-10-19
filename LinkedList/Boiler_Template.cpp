@@ -7,9 +7,9 @@ class Node
     int data; //data of the node
     Node* next; // address that will have the access to the next node if added
 
-    Node(int data) //creating a constructor having same name as the class 
+    Node(int data) //creating a constructor having same name as the class. By default constructors are private until explicit 
     {
-        // keyyword "this" is used to access the member of the class
+        // keyyword "this" is pointer used to access the member of the class
         this->data = data;
         this->next = nullptr;
     }
